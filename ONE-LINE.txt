@@ -1,0 +1,1 @@
+Read CLAUDE.md, then scaffold a Vite + React + Tailwind + Framer Motion site in this folder and build a complete landing page for my business following every rule in that file. Ask me three questions first: what the business is, who buys from it, and what the one action on the page should be.
